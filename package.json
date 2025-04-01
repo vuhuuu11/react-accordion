@@ -1,0 +1,98 @@
+{
+  "name": "@tenedev/react-accordion",
+  "version": "0.0.0",
+  "description": "A lightweight and accessible React accordion component with smooth animations",
+  "keywords": [
+    "React",
+    "Accordion",
+    "Component",
+    "UI",
+    "TypeScript",
+    "TailwindCSS",
+    "Framer",
+    "Motion",
+    "Expandable",
+    "Collapsible",
+    "Accessible",
+    "Animated",
+    "Customizable",
+    "OpenSource",
+    "Lightweight"
+  ],
+  "homepage": "https://github.com/TenEplaysOfficial/react-accordion#readme",
+  "bugs": {
+    "url": "https://github.com/TenEplaysOfficial/react-accordion/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TenEplaysOfficial/react-accordion.git"
+  },
+  "contributors": [
+    {
+      "name": "Sriman",
+      "url": "https://github.com/TenEplaysOfficial",
+      "role": "Main Developer"
+    }
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://www.patreon.com/teneplays"
+  },
+  "license": "MIT",
+  "author": "Sriman",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "test:storybook": "vitest --name storybook",
+    "test:coverage": "vitest --coverage",
+    "build": "rollup -c --bundleConfigAsCjs",
+    "prettier": "prettier --write .",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "motion": "^12.6.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-markdown": "^10.1.0"
+  },
+  "devDependencies": {
+    "@chromatic-com/storybook": "^3.2.6",
+    "@rollup/plugin-commonjs": "^28.0.3",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@storybook/addon-essentials": "^8.6.11",
+    "@storybook/addon-onboarding": "^8.6.11",
+    "@storybook/blocks": "^8.6.11",
+    "@storybook/experimental-addon-test": "^8.6.11",
+    "@storybook/react": "^8.6.11",
+    "@storybook/react-vite": "^8.6.11",
+    "@storybook/test": "^8.6.11",
+    "@tailwindcss/postcss": "^4.0.17",
+    "@types/react": "^19.0.12",
+    "@vitest/browser": "^3.0.9",
+    "@vitest/coverage-v8": "^3.0.9",
+    "playwright": "^1.51.1",
+    "postcss": "^8.5.3",
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "rollup": "^4.38.0",
+    "rollup-plugin-dts": "^6.2.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "storybook": "^8.6.11",
+    "tailwindcss": "^4.0.17",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.9"
+  }
+}
